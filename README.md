@@ -27,4 +27,4 @@ g++ -std=c++11 -Wall -Wextra -pedantic -O2 -mno-sse2 -o test-no-sse2 test.cpp -l
  * asciitoupper single step: 1274.11ms (0.82299 gigabytes/second)
  * asciitoupper multi step: 2614.18ms (0.40111 gigabytes/second, 33561248 steps)
  * Success.
-'''
+```
